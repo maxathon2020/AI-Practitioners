@@ -88,11 +88,11 @@ pip install –r requirements.txt
 
 ## Here is a demo containing the application output:
 
-![Alt Text](https://github.com/rajsaraiya009/Physical-Distancing/blob/develop/demo/demo.gif)
+![Alt Text](https://github.com/maxathon2020/AI-Practitioners/blob/master/demo/demo.gif)
 
 ## Eagle Eye View 
 
-![Alt Text](https://github.com/rajsaraiya009/Physical-Distancing/blob/develop/demo/birds-eye-view.gif)
+![Alt Text](https://github.com/maxathon2020/AI-Practitioners/blob/master/demo/birds-eye-view.gif)
 
 
 ## Idea Credits 
