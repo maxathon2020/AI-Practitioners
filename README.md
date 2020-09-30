@@ -47,7 +47,7 @@ numpy :1.18.3
 We used a pretrained YOLOv3 Model for this project.
 
 ## Clone the repository
-https://github.com/maxathon2020/AI-Practitioners.git
+git clone https://github.com/maxathon2020/AI-Practitioners.git
 
 ## Install required packages
 The provided requirements.txt file can be used to install all the required packages. Use the following command.
